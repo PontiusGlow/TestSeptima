@@ -1,4 +1,4 @@
-const V="septimatest-1.7.0.0-2026.11.07-123039",FONTS="septimatest-fonts",META="septimatest-meta";
+const V="septimatest-1.7.0.0-2026.11.07-143740",FONTS="septimatest-fonts",META="septimatest-meta";
 const SHELL=["./","./index.html","./manifest.webmanifest","./icon-180.png","./icon-192.png","./icon-512.png","./icon-maskable-512.png"];
 /* an update is used only after «Обновить»: the version the person agreed to is remembered ("approved"), and pages keep
    coming from it even if the browser switches to the new worker by itself (pulling the page down, app closed and reopened) */
